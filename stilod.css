@@ -1,0 +1,49 @@
+#tekst{
+    font-size:16px;
+	color:rgb(236, 83, 83);
+	background:rgb(238, 185, 185);
+	height:32px;
+	width:180px;
+}
+#oblik{
+    font-size:16px;
+    color:white;
+    background:rgb(247, 22, 22);
+    height:34px;
+    width:100px;
+}
+#ured{
+    font-size:16px;
+    color:brown;
+}
+#forma{
+    text-align:center; 
+    color:white; 
+    background-color:rgb(230, 43, 189);
+    padding:120px;
+}
+#labela{
+    font-size:25px;
+    color:white;
+    height:100px;
+}
+#zaglavie{
+    font-size:27px;
+    color:white;
+}
+#izgled{
+	font-size:23px;
+	color:rgb(145, 21, 128);
+	text-align:right;
+    text-decoration:none;
+	height:45px;
+	width:70px;
+    font-weight:55;
+    border-radius:45px;
+    border:solid 3px rgb(238, 55, 192);
+    padding:10px 25px;
+}
+#izgled:hover{
+    background:rgb(238, 109, 221);
+    color:rgb(240, 232, 237);
+}

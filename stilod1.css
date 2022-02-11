@@ -1,0 +1,44 @@
+.pozadina1{
+	width:100%;
+	height:100vh;
+	background:url(https://kinsta.com/wp-content/uploads/2018/04/transactional-email.png);
+    background-size: cover;
+}
+
+#form{
+	background:white;
+	height:45px;
+	font-size:16px;
+	color:brown;
+	border:solid 4px rgba(24, 106, 153, 0.938);
+}
+#id{
+	font-size:23px;
+	color:white;
+}
+#text1{
+	font-size:18px;
+	color:blue;
+	background:white;
+	height:45px;
+}
+#hh{
+	color:white;
+}
+#prv1{
+	color:rgb(131, 131, 236);
+	font-family:"proxima nova";
+	font-weight:45;
+	font-size:19px;
+	text-align:center;
+	border: solid 2px rgb(11, 36, 179);
+	border-radius:45px;
+	padding:10px 30px;
+}
+#prv1:hover{
+	background-color:rgb(33, 185, 223);
+	color:#fff;
+}
+
+	
+

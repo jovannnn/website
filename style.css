@@ -1,0 +1,117 @@
+.pozadina{
+	width:100%;
+	height:100vh;
+	background:url(https://png.pngtree.com/thumb_back/fw800/back_our/20190619/ourmid/pngtree-sports-background-main-picture-download-material-image_139666.jpg);
+    background-size: cover;
+    background-color:blue;
+}
+
+.text{
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+}
+.boja{
+	text-align:center;
+}
+.boja h1{
+	font-size:80px;
+	color:brown;
+}
+.boja p{
+	font-size:25px;
+	color:brown;
+	justify-content: center;
+}
+#form_input{
+	background:white;
+	height:45px;
+	font-size:16px;
+	color:brown;
+	border:solid 4px brown;
+}
+#klik{
+	height:45px;
+	width:100px;
+	font-size:14px;
+	color:brown;
+}
+
+#button1{
+	font-size:16px;
+	color:white;
+	background:brown;
+	height:45px;
+	width:100px;
+}
+#button2{
+	font-size:16px;
+	color:brown;
+	height:45px;
+	width:100px;`
+}
+#button3{
+	font-size:16px;
+	color:brown;
+	height:45px;
+	width:100px;
+}
+
+#button4{
+	font-size:16px;
+	color:brown;
+	height:45px;
+	width:100px;
+}
+#funkcija{
+	height: 100%;
+	justify-content: left;
+	align-items:left;
+}
+#cena{
+	font-size:23px;
+	color:brown;
+	height:36px;
+	width:120px;
+}
+#button22{
+	font-size:16px;
+	color:brown;
+	height:45px;
+	width:100px;
+}
+#tekst{
+	font-size:16px;
+	color:white;
+	background:brown;
+	height:45px;
+	width:100px;
+}
+#oblik{
+	font-size:16px;
+	color:white;
+	background:brown;
+	height:45px;
+	width:100px;
+}
+#buton{
+	color:brown;
+	font-family:"proxima nova";
+	text-decoration:none;
+	font-weight:45;
+	font-size:19px;
+	text-align:center;
+	border: solid 2px rgb(212, 102, 12);
+	border-radius:45px;
+	padding:10px 30px;
+}
+#buton:hover{
+	background-color:rgb(235, 97, 161);
+	color:#fff;
+}
+#image{
+	height:25px;
+	width:34px;
+}
+	

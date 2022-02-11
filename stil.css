@@ -1,0 +1,70 @@
+.pozadina{
+	background-color:white;
+	background:cover;
+}
+.tekst{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.tekst h1{
+	font-weight:italic;
+	font-size:20px;
+	color:green;
+}
+.slika{
+    width:30%;
+    height:45%;
+}
+.slika1{
+    width:30%;
+    height:350;
+}
+.slika2{
+	height:40%;
+	width:30%;
+}
+.slika3{
+    width:30%;
+    height:40%;
+}
+.slika4{
+	height:48%;
+	width:30%;
+}
+.slika5{
+    width:30%;
+    height:45%;
+}
+.slika6{
+    height:48%;
+    width:30%;
+}
+.slika7{
+    height:40%;
+    width:30%;
+}
+.slika8{
+    height:40%;
+    width:30%;
+}
+.slika9{
+    height:45%;
+    width:30%;
+}
+.slika10{
+    height:40%;
+    width:30%;
+}
+.slika11{
+    height:40%;
+    width:30%;
+}
+.pure-menu-link{
+    height:30px;
+    weight:30px;
+    background-color:lightblue;
+    font-size:26px;
+    color:black;
+}
+
